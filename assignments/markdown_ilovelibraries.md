@@ -10,7 +10,8 @@
 
 ## Limitation of using Markdown
 
-* A limitation of using Markdown is that it may not reflect the branding of the organization that's using it.
+* A limitation of using Markdown is that it may not reflect the branding of
+    the organization that's using it.
 
 * Some people may also need training to use Markdown if it's new to them.
 
