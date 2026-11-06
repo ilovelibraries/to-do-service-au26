@@ -2,8 +2,8 @@
 
 ## Advantage of using Markdown
 
-* An advantage of using Markdown is it's a simple plain text file that doesn't have complicated formatting.
-* You can also use Markdown with a variety of operating systems and web applications.
+* An advantage of using Markdown is a simple plain text file that doesn't have complicated formatting.
+* Markdown is also used for a variety of operating systems and web applications.
 [source: markdownguide.org](https://www.markdownguide.org/getting-started/)
 
 ## Limitation of using Markdown
